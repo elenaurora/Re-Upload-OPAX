@@ -1,0 +1,167 @@
+{
+  "en": {
+    "translation": {
+      "App": {
+        "locationPermission": {
+          "alertTitle": "Attenzione",
+          "alertMessage": "Questa app necessita del permesso di localizzatione per funzionare."
+        },
+        "bluetoothPermission": {
+          "alertTitle": "Attenzione",
+          "alertMessage": "Questa app necessita del permesso Bluetooth per funzionare."
+        }
+      },
+      "SplashScreen": {
+        "bannerText": "OPAX"
+      },
+      "PrivacyPolicyScreen": {
+        "header": "Privacy policy",
+        "acceptButton": "Accetto",
+        "rejectButton": "Non accetto"
+      },
+      "CreditsScreen": {
+        "header": "Credits"
+      },      
+      "ManualScreen": {
+        "header": "Pausa!",
+        "description.1": "Il camposanto è ampio e silenzioso.",
+        "description.2": "Posso riposarmi sul prato intorno al Battistero.",
+        "description.3": "La terrazza dentro il museo è tranquilla.",
+        "skipButton": "Salta",
+        "imageSliderLabel": "Screenshots istruzioni",
+        "caa_h_icons": "0"
+      },
+
+      "MapScreen": {
+        "header": "Servizi igienici"
+      },
+
+      "MuseumsListScreen": {
+        "networkConnectionMessage": "Assenza di connessione. Connettersi ad Internet.",
+        "downloadErrorMessage": "Impossibile scaricare dati dal server.",
+        "retryButton": "Riprova",
+        "menuItemCredits": "Credits",
+        "menuItemPrivacy": "Privacy policy",
+        "menuItemLanguage": "Comunicazione",
+        "menuItemManual": "Manuale",
+        "menuItemStoryLink": "Storia Sociale", 
+        "menuItemUpdate": "Aggiorna musei",
+        "languageSelectionMessage": "Scegli la modalità di visualizzazione",
+        "IntroLabel": "Introduzione",
+        "menuButtonLabel": "Menu",
+        "museumsViewLabel": "Musei",
+        "loadingViewLabel": "Scaricamento lista musei",
+        "caa_icons": "0"
+      },
+      "MuseumScreen": {
+        "networkConnectionMessage": "Assenza di connessione. Connettersi ad Internet.",
+        "downloadErrorMessage": "Impossibile scaricare dati dal server.",
+        "retryButton": "Riprova",
+        "enterButton": "Entra",
+        "imageSliderLabel": "Immagini del museo"
+      },
+      "ArtworksScreen": {
+        "header": "Opere",
+        "artworkLabel": "Opera",
+        "authorLabel": "Autore",
+        "locationOffMessage": "Questa app necessita della localizzazione per acquisire informazioni di prossimità. Attiva la localizzazione.",
+        "bluetoothOffMessage": "Questa app necessita del bluetooth per acquisire informazioni di prossimità. Attiva il bluetooth.",
+        "disableProximityButton": "Continua senza bluetooth",
+        "imageSliderLabel": "Immagini dell'opera"
+      },
+      "ArtworkScreen": {
+        "authorLabel": "Autore",
+        "yearLabel": "Anno"
+      },
+      "HeaderView" : {
+        "backButtonLabel": "Indietro",
+        "enableProximityButtonLabel": "Abilita prossimità",
+        "disableProximityButtonLabel": "Disabilita prossimità"
+      }
+    }
+  },
+
+
+  "caa": {
+    "translation": {
+      "App": {
+        "locationPermission": {
+          "alertTitle": "Attenzione",
+          "alertMessage": "Questa app necessita del permesso di localizzatione per funzionare."
+        },
+        "bluetoothPermission": {
+          "alertTitle": "Attenzione",
+          "alertMessage": "Questa app necessita del permesso Bluetooth per funzionare."
+        }
+      },
+      "SplashScreen": {
+        "bannerText": "OPAX"
+      },
+      "PrivacyPolicyScreen": {
+        "header": "Privacy policy",
+        "acceptButton": "Accetto",
+        "rejectButton": "Non accetto"
+      },
+      "CreditsScreen": {
+        "header": "Credits"
+      },      
+      "ManualScreen": {
+        "header": "Pausa!",
+        "description.1": "Il camposanto è ampio e silenzioso.",
+        "description.2": "Posso riposarmi sul prato intorno al Battistero.",
+        "description.3": "La terrazza dentro il museo è tranquilla.",
+        "skipButton": "Salta",
+        "imageSliderLabel": "Screenshots istruzioni",
+       "caa_h_icons": "70"
+      },
+
+      "MapScreen": {
+        "header": "Servizi igienici"
+      },
+
+      "MuseumsListScreen": {
+        "networkConnectionMessage": "Assenza di connessione. Connettersi ad Internet.",
+        "downloadErrorMessage": "Impossibile scaricare dati dal server.",
+        "retryButton": "Riprova",
+        "menuItemCredits": "Credits",
+        "menuItemPrivacy": "Privacy policy",
+        "menuItemLanguage": "Lingua",
+        "menuItemManual": "Manuale",
+        "menuItemUpdate": "Aggiorna musei",
+        "languageSelectionMessage": "Scegli la modalità di visualizzazione",
+        "CAASelectionMessage": "CAA",
+        "menuButtonLabel": "Menu",
+        "museumsViewLabel": "Musei",
+        "loadingViewLabel": "Scaricamento lista musei",
+        "caa_icons": "75",
+        "caa_y_n": "../assets/images/caa_n.png'"
+        
+      },
+      "MuseumScreen": {
+        "networkConnectionMessage": "Assenza di connessione. Connettersi ad Internet.",
+        "downloadErrorMessage": "Impossibile scaricare dati dal server.",
+        "retryButton": "Riprova",
+        "enterButton": "Entra",
+        "imageSliderLabel": "Immagini del museo"
+      },
+      "ArtworksScreen": {
+        "header": "Opere",
+        "artworkLabel": "Opera",
+        "authorLabel": "Autore",
+        "locationOffMessage": "Questa app necessita della localizzazione per acquisire informazioni di prossimità. Attiva la localizzazione.",
+        "bluetoothOffMessage": "Questa app necessita del bluetooth per acquisire informazioni di prossimità. Attiva il bluetooth.",
+        "disableProximityButton": "Continua senza bluetooth",
+        "imageSliderLabel": "Immagini dell'opera"
+      },
+      "ArtworkScreen": {
+        "authorLabel": "Autore",
+        "yearLabel": "Anno"
+      },
+      "HeaderView" : {
+        "backButtonLabel": "Indietro",
+        "enableProximityButtonLabel": "Abilita prossimità",
+        "disableProximityButtonLabel": "Disabilita prossimità"
+      }
+    }
+  }
+}

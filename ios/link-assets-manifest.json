@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlegreyaSans-Bold.ttf",
+      "sha1": "f88734a28bac669376d66662dac4fa81cb59705e"
+    },
+    {
+      "path": "assets/fonts/AlegreyaSans-Medium.ttf",
+      "sha1": "f132806ccb2fd0844eb8ba43c9f5f684697e285f"
+    },
+    {
+      "path": "assets/fonts/Cinzel-Regular.ttf",
+      "sha1": "bdf7f3d0c52a1cde0aeccf80a2bc3c314c4ec014"
+    },
+    {
+      "path": "assets/fonts/OpenDyslexic-Regular.ttf",
+      "sha1": "231e761859e4633714d640cd45c62b3a409f292e"
+    }
+  ]
+}
